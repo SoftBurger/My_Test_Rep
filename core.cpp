@@ -2,7 +2,6 @@ class Core {
 public:
   Core() {}
   virtual void GetSome() {
-    GetComputation();
   }
 };
 
