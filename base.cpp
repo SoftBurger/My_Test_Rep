@@ -1,0 +1,6 @@
+namespace Base {
+
+class SomeX {
+};
+
+}
